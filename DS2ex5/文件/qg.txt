@@ -1,0 +1,5 @@
+任務0：
+		讀入binary檔，紀錄各id連結了哪些id與其之間的權重，產生adj list。
+任務1：
+		找還沒被列在任何connected components內的節點
+		，以其為起點作DFS找到connected component。
