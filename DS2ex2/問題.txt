@@ -1,0 +1,2 @@
+1. 排序錯誤
+     root->left->left > root->left
